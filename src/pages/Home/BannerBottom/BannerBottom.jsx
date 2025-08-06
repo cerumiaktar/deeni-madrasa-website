@@ -3,9 +3,9 @@ import { IoLogoWhatsapp } from "react-icons/io";
 
 const BannerBottom = () => {
     return (
-        <div>
-            <div className="container mx-auto grid grid-cols-2 lg:grid-cols-4 gap-6 absolute inset-x-0 md:bottom-40">
-                <div className="card bg-base-100 shadow-2xl text-[#14535F]">
+        <div className="mt-6 mb-6 md:mb-40">
+            <div className="container mx-auto grid grid-cols-2 lg:grid-cols-4 gap-6 md:absolute inset-x-0 md:bottom-40">
+                <div className="card bg-base-100 dark:bg-white shadow-2xl text-[#14535F]">
                     <figure className="px-10 pt-10">
                         <span className="text-5xl"><FaRegClock /></span>
                     </figure>
@@ -14,7 +14,7 @@ const BannerBottom = () => {
                         <p>Sessions Completed</p>
                     </div>
                 </div>
-                <div className="card bg-base-100 shadow-2xl text-[#14535F]">
+                <div className="card bg-base-100 dark:bg-white shadow-2xl text-[#14535F]">
                     <figure className="px-10 pt-10">
                         <span className="text-5xl"><FaUserGraduate /></span>
                     </figure>
@@ -23,7 +23,7 @@ const BannerBottom = () => {
                         <p>Registered Students</p>
                     </div>
                 </div>
-                <div className="card bg-base-100 shadow-2xl text-[#14535F]">
+                <div className="card bg-base-100 dark:bg-white shadow-2xl text-[#14535F]">
                     <figure className="px-10 pt-10">
                         <span className="text-5xl"><FaUserTie /></span>
                     </figure>
@@ -32,7 +32,7 @@ const BannerBottom = () => {
                         <p>Tutores Available</p>
                     </div>
                 </div>
-                <div className="card bg-base-100 shadow-2xl text-[#14535F]">
+                <div className="card bg-base-100 dark:bg-white shadow-2xl text-[#14535F]">
                     <figure className="px-10 pt-10">
                         <span className="text-5xl"><IoLogoWhatsapp /></span>
                     </figure>

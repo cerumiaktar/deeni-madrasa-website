@@ -2,7 +2,7 @@
 
 const Banner = () => {
     return (
-        <div className="relative">
+        <div className="md:relative">
             <div
                 className="hero h-[600px]"
                 style={{
@@ -16,8 +16,8 @@ const Banner = () => {
                         <p className="mb-5 max-w-xl mx-auto">
                             Follow the path of Islam to find peace, purpose, and guidance through the Qur’an and the teachings of the Prophet.
                         </p>
-                        <button className="btn text-base mr-4">Sign in</button>
-                        <button className="btn text-base">Sign Up</button>
+                        <button className="btn text-base mr-4 dark:bg-white dark:text-black dark:border-none">Sign in</button>
+                        <button className="btn text-base dark:bg-white dark:text-black dark:border-none">Sign Up</button>
                     </div>
                 </div>
             </div>
