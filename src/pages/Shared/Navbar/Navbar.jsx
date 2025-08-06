@@ -15,7 +15,7 @@ const Navbar = () => {
                         </div>
                         <ul
                             tabIndex={0}
-                            className="menu menu-sm dropdown-content bg-base-100 text-base rounded-box z-1 mt-3 w-52 p-2 shadow">
+                            className="menu menu-sm dropdown-content bg-base-100 text-lg rounded-box z-1 mt-3 w-52 p-2 shadow">
                             <li><NavLink to="/">Home</NavLink></li>
                             <li>
                                 <NavLink>Courses</NavLink>
@@ -34,7 +34,7 @@ const Navbar = () => {
                     <a className="text-xl"><img src="/src/assets/images/islamic logo 1.png" alt="" /></a>
                 </div>
                 <div className="navbar-center hidden lg:flex">
-                    <ul className="menu menu-horizontal px-1 text-base">
+                    <ul className="menu menu-horizontal px-1 text-lg">
                         <li><NavLink to="/">Home</NavLink></li>
                         <li>
                             <details>
@@ -54,14 +54,14 @@ const Navbar = () => {
                 </div>
                 <div className="navbar-end">
                     <div className="dropdown dropdown-start">
-                        <div tabIndex={0} role="button" className="btn m-1 text-base"><GoGlobe /> <IoMdArrowDropdown /></div>
+                        <div tabIndex={0} role="button" className="btn m-1 text-lg"><GoGlobe /> <IoMdArrowDropdown /></div>
                         <ul tabIndex={0} className="dropdown-content menu bg-base-100 rounded-box z-1 w-52 p-2 shadow-sm">
                             <li><a>Bangla</a></li>
                             <li><a>English</a></li>
                         </ul>
                     </div>
                     <div className="dropdown dropdown-start">
-                        <div tabIndex={0} role="button" className="btn m-1 text-base"><LuUser /> <IoMdArrowDropdown /></div>
+                        <div tabIndex={0} role="button" className="btn m-1 text-lg"><LuUser /> <IoMdArrowDropdown /></div>
                         <ul tabIndex={0} className="dropdown-content menu bg-base-100 rounded-box z-1 w-52 p-2 shadow-sm">
                             <li><a>Login</a></li>
                             <li><a>Registration</a></li>
