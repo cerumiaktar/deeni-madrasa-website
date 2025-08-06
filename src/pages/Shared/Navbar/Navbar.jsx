@@ -6,7 +6,7 @@ import { LuUser } from "react-icons/lu";
 
 const Navbar = () => {
     return (
-        <div className='bg-base-100 shadow-sm'>
+        <div className='bg-base-100 shadow-sm dark:bg-white dark:text-black'>
             <div className="navbar container mx-auto">
                 <div className="navbar-start">
                     <div className="dropdown">
@@ -52,17 +52,17 @@ const Navbar = () => {
                         <li><NavLink>Contact</NavLink></li>
                     </ul>
                 </div>
-                <div className="navbar-end">
+                <div className="navbar-end ">
                     <div className="dropdown dropdown-start">
-                        <div tabIndex={0} role="button" className="btn m-1 text-lg"><GoGlobe /> <IoMdArrowDropdown /></div>
-                        <ul tabIndex={0} className="dropdown-content menu bg-base-100 rounded-box z-1 w-52 p-2 shadow-sm">
+                        <div tabIndex={0} role="button" className="btn m-1 text-lg dark:bg-white dark:text-black dark:border-none dark:shadow-2xl"><GoGlobe /> <IoMdArrowDropdown /></div>
+                        <ul tabIndex={0} className="dropdown-content menu bg-base-100 rounded-box z-1 w-52 p-2 dark:bg-white dark:text-black shadow-sm">
                             <li><a>Bangla</a></li>
                             <li><a>English</a></li>
                         </ul>
                     </div>
                     <div className="dropdown dropdown-start">
-                        <div tabIndex={0} role="button" className="btn m-1 text-lg"><LuUser /> <IoMdArrowDropdown /></div>
-                        <ul tabIndex={0} className="dropdown-content menu bg-base-100 rounded-box z-1 w-52 p-2 shadow-sm">
+                        <div tabIndex={0} role="button" className="btn m-1 text-lg dark:bg-white dark:text-black dark:border-none dark:shadow-2xl"><LuUser /> <IoMdArrowDropdown /></div>
+                        <ul tabIndex={0} className="dropdown-content menu bg-base-100 rounded-box z-1 w-52 p-2 dark:bg-white dark:text-black shadow-sm">
                             <li><a>Login</a></li>
                             <li><a>Registration</a></li>
                         </ul>
