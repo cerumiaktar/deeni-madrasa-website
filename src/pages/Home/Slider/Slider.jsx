@@ -55,7 +55,7 @@ const Slider = () => {
                         <h1 className='text-2xl'>Works on Apple & Android phones & tablets</h1>
                     </div>
                 </SwiperSlide>
-                <SwiperSlide className='relative rounded-lg'>
+                <SwiperSlide className='relative rounded-lg '>
                     <img className="rounded-lg" src="https://i.ibb.co.com/0jtbr5J3/Rectangle-3-2.png" alt="" />
                     <div className='absolute inset-x-0 bottom-0 bg-[#724B01] py-2 rounded-b-lg'>
                         <h1 className='text-2xl'>Works on Apple & Android phones & tablets</h1>
@@ -63,8 +63,8 @@ const Slider = () => {
                 </SwiperSlide>
             </Swiper>
             <div className="text-center mt-4">
-                <button className='btn mr-4 bg-[#724B01] text-white dark:border-none'><span><SiGoogleclassroom /></span>Visit Quran Classroom </button>
-                <button className='btn outline outline-[#724B01] text-[#724B01] dark:bg-white dark:border-none'>Visit Quran Classroom </button>
+                <button className='btn mr-4 bg-[#724B01] text-lg text-white dark:border-none'><span><SiGoogleclassroom /></span>Visit Quran Classroom </button>
+                <button className='btn outline outline-[#724B01] text-lg text-[#724B01] bg-white dark:bg-white dark:border-none'>Visit Quran Classroom </button>
             </div>
         </div>
     );
