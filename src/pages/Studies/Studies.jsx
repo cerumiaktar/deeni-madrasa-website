@@ -11,7 +11,7 @@ const Studies = () => {
             .then(data => setStudies(data))
     }, [])
     return (
-        <div className="mb-12" style={{ backgroundImage: "url(https://i.ibb.co.com/HfKXWQKW/Imge.png)", }}>
+        <div className="" style={{ backgroundImage: "url(https://i.ibb.co.com/HfKXWQKW/Imge.png)", }}>
             <div className="container mx-auto py-16">
                 <div className="text-center mb-6">
                     <h1 className="text-2xl font-bold text-white">ISLAMIC STUDIES</h1>

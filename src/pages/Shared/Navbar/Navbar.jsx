@@ -15,7 +15,7 @@ const Navbar = () => {
                         </div>
                         <ul
                             tabIndex={0}
-                            className="menu menu-sm dropdown-content bg-base-100 text-lg rounded-box z-1 mt-3 w-52 p-2 shadow">
+                            className="menu menu-sm dropdown-content bg-base-100 text-lg text-black rounded-box z-1 mt-3 w-52 p-2 shadow">
                             <li><NavLink to="/">Home</NavLink></li>
                             <li>
                                 <NavLink>Courses</NavLink>
@@ -34,7 +34,7 @@ const Navbar = () => {
                     <a className="text-xl"><img src="/src/assets/images/islamic logo 1.png" alt="" /></a>
                 </div>
                 <div className="navbar-center hidden lg:flex">
-                    <ul className="menu menu-horizontal px-1 text-lg">
+                    <ul className="menu menu-horizontal text-black px-1 text-lg">
                         <li><NavLink to="/">Home</NavLink></li>
                         <li>
                             <details>
