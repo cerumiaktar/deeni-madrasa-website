@@ -2,10 +2,29 @@ import React from 'react';
 
 const ShortBanner = () => {
     return (
-        <div className='bg-[#faf4e9] mt-16 py-20'>
-            <div className='text-black container mx-auto text-center space-y-2'>
-                <h1 className='text-2xl font-bold'>WHY DEENI MADRASA</h1>
-                <p>Learn Quran and many other subjects of Islamic studies with live classes at with great features and benefits.</p>
+        <div className='bg-[#faf4e9] mt-16 py-20 '>
+            <div className='container mx-auto'>
+                <div className='text-black container mx-auto text-center space-y-2'>
+                    <h1 className='text-2xl font-bold'>WHY DEENI MADRASA</h1>
+                    <p>Learn Quran and many other subjects of Islamic studies with live classes at with great features and benefits.</p>
+                </div>
+                <div className='text-center mt-4 space-y-4'>
+                    <div className="join space-x-6">
+                        <button className="btn join-item font-light">Teaching deeni taleem with Tarbiyah/Akhlaq</button>
+                        <button className="btn join-item font-light">Teaching deeni taleem with Tarbiyah/Akhlaq</button>
+                        <button className="btn join-item font-light">Female Tutors available</button>
+                    </div>
+                    <div className="join space-x-6">
+                        <button className="btn join-item font-light">Tutors are highly Qualified and Multilingual</button>
+                        <button className="btn join-item font-light">All course one rate</button>
+                        <button className="btn join-item font-light">Encourage to be a practicing Muslim</button>
+                    </div>
+                    <div className="join space-x-6">
+                        <button className="btn join-item font-light">No software needed. Log in and enjoy learning</button>
+                        <button className="btn join-item font-light">Choose from our handpicked, verified Quran Tutors</button>
+                        <button className="btn join-item font-light">Encourage to be a practicing Muslim</button>
+                    </div>
+                </div>
             </div>
         </div>
     );
