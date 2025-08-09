@@ -2,6 +2,7 @@ import Studies from "../../Studies/Studies";
 import StudiesBottom from "../../StudiesBottom/StudiesBottom";
 import Banner from "../Banner/Banner";
 import BannerBottom from "../BannerBottom/BannerBottom";
+import Countries from "../Countries/Countries";
 import Levels from "../Levels/Levels";
 import Partners from "../Partners/Partners";
 import ShortBanner from "../ShortBanner/ShortBanner";
@@ -20,6 +21,7 @@ const Home = () => {
             <Slider></Slider>
             <ShortBanner></ShortBanner>
             <Partners></Partners>
+            <Countries></Countries>
         </div>
     );
 };
