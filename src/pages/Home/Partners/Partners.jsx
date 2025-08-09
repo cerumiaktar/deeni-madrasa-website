@@ -12,7 +12,7 @@ const Partners = () => {
                         <figure className="px-10 pt-10">
                             <img
                                 src="https://i.ibb.co.com/CpvLsrPH/banzi-1.png"
-                                alt="Shoes"
+                                alt="partner logo 1"
                                 className="rounded-xl" />
                         </figure>
                     </div>
@@ -20,7 +20,7 @@ const Partners = () => {
                         <figure className="px-10 pt-10">
                             <img
                                 src="https://i.ibb.co.com/990NYH42/risalah-1.png"
-                                alt="Shoes"
+                                alt="partner logo 2"
                                 className="rounded-xl" />
                         </figure>
                     </div>
@@ -28,7 +28,7 @@ const Partners = () => {
                         <figure className="px-10 pt-10">
                             <img
                                 src="https://i.ibb.co.com/CpvLsrPH/banzi-1.png"
-                                alt="Shoes"
+                                alt="Partner logo 3"
                                 className="rounded-xl" />
                         </figure>
                     </div>
@@ -36,7 +36,7 @@ const Partners = () => {
                         <figure className="px-10 pt-10">
                             <img
                                 src="https://i.ibb.co.com/Wvwr0xnB/one-1.png"
-                                alt="Shoes"
+                                alt="Partner logo 4"
                                 className="rounded-xl" />
                         </figure>
                     </div>
