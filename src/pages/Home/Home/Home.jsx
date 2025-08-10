@@ -3,6 +3,7 @@ import StudiesBottom from "../../StudiesBottom/StudiesBottom";
 import Banner from "../Banner/Banner";
 import BannerBottom from "../BannerBottom/BannerBottom";
 import Countries from "../Countries/Countries";
+import Faq from "../Faq/Faq";
 import Gallery from "../Gallery/Gallery";
 import Levels from "../Levels/Levels";
 import Partners from "../Partners/Partners";
@@ -28,6 +29,7 @@ const Home = () => {
             {/* <Reviews></Reviews> */}
             <Partners></Partners>
             <Countries></Countries>
+            <Faq></Faq>
         </div>
     );
 };

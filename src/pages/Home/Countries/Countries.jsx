@@ -4,11 +4,11 @@ const Countries = () => {
     return (
         <div className="bg-[#14535FB3] py-20 mt-20">
             <div className="container mx-auto">
-                <div className="text-center mb-6">
+                <div className="text-center mb-6 text-white">
                     <h1 className="text-2xl font-bold">WHY DEENI MADRASA</h1>
                     <p>Learn Quran and many other subjects of Islamic studies with live classes at with great features and benefits.</p>
                 </div>
-                <div >
+                <div className="text-white">
                     {/* col 1 */}
                     <div className="grid grid-cols-2 md:grid-cols-5 items-center">
                         <div className="flex items-center gap-3">
