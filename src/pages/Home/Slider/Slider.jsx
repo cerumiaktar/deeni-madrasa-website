@@ -28,37 +28,37 @@ const Slider = () => {
                 <SwiperSlide className='relative rounded-lg'>
                     <img className="rounded-lg" src="https://i.ibb.co.com/svqqzc58/Rectangle-2-1.png" alt="" />
                     <div className='absolute inset-x-0 bottom-0 bg-[#724B01] py-2 rounded-b-lg'>
-                        <h1 className='text-2xl'>Works on Apple & Android phones & tablets</h1>
+                        <h1 className='text-2xl text-white'>Works on Apple & Android phones & tablets</h1>
                     </div>
                 </SwiperSlide>
                 <SwiperSlide className='relative rounded-lg'>
                     <img className="rounded-lg" src="https://i.ibb.co.com/PsJMKf3Z/Rectangle-2-2.png" alt="" />
                     <div className='absolute inset-x-0 bottom-0 bg-[#724B01] py-2 rounded-b-lg'>
-                        <h1 className='text-2xl'>Works on Apple & Android phones & tablets</h1>
+                        <h1 className='text-2xl text-white'>Works on Apple & Android phones & tablets</h1>
                     </div>
                 </SwiperSlide>
                 <SwiperSlide className='relative rounded-lg'>
                     <img className="rounded-lg" src="https://i.ibb.co.com/hFfsDF4C/Rectangle-3-4.png" alt="" />
                     <div className='absolute inset-x-0 bottom-0 bg-[#724B01] py-2 rounded-b-lg'>
-                        <h1 className='text-2xl'>Works on Apple & Android phones & tablets</h1>
+                        <h1 className='text-2xl text-white'>Works on Apple & Android phones & tablets</h1>
                     </div>
                 </SwiperSlide>
                 <SwiperSlide className='relative rounded-lg'>
                     <img className="rounded-lg" src="https://i.ibb.co.com/tppdCqY9/Rectangle-3-1.png" alt="" />
                     <div className='absolute inset-x-0 bottom-0 bg-[#724B01] py-2 rounded-b-lg'>
-                        <h1 className='text-2xl'>Works on Apple & Android phones & tablets</h1>
+                        <h1 className='text-2xl text-white'>Works on Apple & Android phones & tablets</h1>
                     </div>
                 </SwiperSlide>
                 <SwiperSlide className='relative rounded-lg'>
                     <img className="rounded-lg" src="https://i.ibb.co.com/fz8hB19W/Rectangle-3-3.png" alt="" />
                     <div className='absolute inset-x-0 bottom-0 bg-[#724B01] py-2 rounded-b-lg'>
-                        <h1 className='text-2xl'>Works on Apple & Android phones & tablets</h1>
+                        <h1 className='text-2xl text-white'>Works on Apple & Android phones & tablets</h1>
                     </div>
                 </SwiperSlide>
                 <SwiperSlide className='relative rounded-lg '>
                     <img className="rounded-lg" src="https://i.ibb.co.com/0jtbr5J3/Rectangle-3-2.png" alt="" />
                     <div className='absolute inset-x-0 bottom-0 bg-[#724B01] py-2 rounded-b-lg'>
-                        <h1 className='text-2xl'>Works on Apple & Android phones & tablets</h1>
+                        <h1 className='text-2xl text-white'>Works on Apple & Android phones & tablets</h1>
                     </div>
                 </SwiperSlide>
             </Swiper>

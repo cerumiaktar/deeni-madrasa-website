@@ -6,6 +6,8 @@ import Countries from "../Countries/Countries";
 import Gallery from "../Gallery/Gallery";
 import Levels from "../Levels/Levels";
 import Partners from "../Partners/Partners";
+// import Reviews from "../Reviews/Reviews";
+import Reviews2 from "../Reviews2/Reviews2";
 import ShortBanner from "../ShortBanner/ShortBanner";
 import Slider from "../Slider/Slider";
 
@@ -22,6 +24,8 @@ const Home = () => {
             <Slider></Slider>
             <Gallery></Gallery>
             <ShortBanner></ShortBanner>
+            <Reviews2></Reviews2>
+            {/* <Reviews></Reviews> */}
             <Partners></Partners>
             <Countries></Countries>
         </div>

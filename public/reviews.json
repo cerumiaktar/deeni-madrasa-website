@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "profile_img": "https://randomuser.me/api/portraits/women/44.jpg",
+    "name": "Sophia Anderson",
+    "designation": "Marketing Manager",
+    "reviews": "This product exceeded my expectations. The quality is superb and delivery was on time.This product exceeded my expectations. The quality is superb and delivery was on time.This product exceeded my expectations. The quality is superb and delivery was on time.This product exceeded my expectations. The quality is superb and delivery was on time",
+    "video_url": "https://www.youtube.com/embed/-PhfeqC2Wmo?si=xQsumXZnm8GkFBrw"
+  },
+  {
+    "id": 1,
+    "profile_img": "https://randomuser.me/api/portraits/men/32.jpg",
+    "name": "James Carter",
+    "designation": "Marketing Manager",
+    "reviews": "lorem20Fantastic customer service! They responded quickly and resolved my issue without hassle.This product exceeded my expectations. The quality is superb and delivery was on time",
+    "video_url": "https://www.youtube.com/embed/1QGIASBLTNo?si=bN9KBJGX0ikBgUa7"
+  },
+  {
+    "id": 1,
+    "profile_img": "https://randomuser.me/api/portraits/women/65.jpg",
+    "name": "Emily Johnson",
+    "designation": "Marketing Manager",
+    "reviews": "The attention to detail in this product is outstanding. I recommend it to all my colleagues.This product exceeded my expectations. The quality is superb and delivery was on time",
+    "video_url": "https://www.youtube.com/embed/_FZehi3gNF0?si=O4c5ECyojOZD02HY"
+  },
+  {
+    "id": 1,
+    "profile_img": "https://randomuser.me/api/portraits/women/12.jpg",
+    "name": "Olivia Brown",
+    "designation": "Marketing Manager",
+    "reviews": "Very durable and stylish. I've been using it for months and it still looks brand new.This product exceeded my expectations. The quality is superb and delivery was on time",
+    "video_url": "https://www.youtube.com/embed/6BFlihnIxns?si=wrEtPsOH9PsovbrD"
+  },
+  {
+    "id": 1,
+    "profile_img": "https://randomuser.me/api/portraits/men/54.jpg",
+    "name": "Daniel Martinez",
+    "designation": "Marketing Manager",
+    "reviews": "Absolutely love it! The product works perfectly and the packaging was beautiful.This product exceeded my expectations. The quality is superb and delivery was on time",
+    "video_url": "https://www.youtube.com/embed/1KywdfqcLwo?si=c3-tzF-D83R2ruqu"
+  }
+]
