@@ -3,7 +3,7 @@ import { IoLogoWhatsapp } from "react-icons/io";
 
 const BannerBottom = () => {
     return (
-        <div className="mt-6 mb-6 md:mb-40">
+        <div className="mt-6 mb-6 md:mb-44">
             <div className="container mx-auto grid grid-cols-2 lg:grid-cols-4 gap-6 md:absolute inset-x-0 md:bottom-40">
                 <div className="card bg-base-100 dark:bg-white shadow-2xl text-[#14535F]">
                     <figure className="px-10 pt-10">
