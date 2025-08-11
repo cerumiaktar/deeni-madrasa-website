@@ -6,27 +6,27 @@ const Footer = () => {
             <footer className="footer sm:footer-horizontal text-base-content pt-30 pb-20 container mx-auto">
                 <aside>
                     <h2 className="text-2xl text-[#724B01] font-bold">About Deeni Madrasa</h2>
-                    <p>
+                    <p className=" dark:text-[#333333] ">
                         AThe Holy Quran is the greatest book in the world and is the source of all kinds of knowledge. <br /> As a Muslim, it is obligatory for everyone to learn the Qur’an. Deeni Madrasa has made the <br /> journey of learning the Qur’an easier, ensuring Tarbiyah and Akhlaq alongside pure knowledge.
                     </p>
                 </aside>
                 <nav>
                     <h6 className="text-2xl font-bold text-[#724B01]">Useful Links</h6>
-                    <a className="link link-hover">Home</a>
-                    <a className="link link-hover">FAQ’s</a>
-                    <a className="link link-hover">Refund Policy</a>
+                    <a className="link link-hover dark:text-[#333333]">Home</a>
+                    <a className="link link-hover dark:text-[#333333]">FAQ’s</a>
+                    <a className="link link-hover dark:text-[#333333]">Refund Policy</a>
                 </nav>
                 <nav>
                     <h6 className="text-2xl font-bold text-[#724B01]">Contact</h6>
-                    <a className="link link-hover">Address: Dhaka,Bangladesh</a>
-                    <a className="link link-hover">Phone: ++8801312345678</a>
-                    <a className="link link-hover">Email: info@madrasa.com</a>
+                    <a className="link link-hover dark:text-[#333333]">Address: Dhaka,Bangladesh</a>
+                    <a className="link link-hover dark:text-[#333333]">Phone: ++8801312345678</a>
+                    <a className="link link-hover dark:text-[#333333]">Email: info@madrasa.com</a>
                 </nav>
                 <nav>
                     <h6 className="text-2xl font-bold text-[#724B01]">Support</h6>
-                    <a className="link link-hover">Terms and Condition</a>
-                    <a className="link link-hover">Privacy policy</a>
-                    <a className="link link-hover">Help Line</a>
+                    <a className="link link-hover dark:text-[#333333]">Terms and Condition</a>
+                    <a className="link link-hover dark:text-[#333333]">Privacy policy</a>
+                    <a className="link link-hover dark:text-[#333333]">Help Line</a>
                 </nav>
             </footer>
         </div>

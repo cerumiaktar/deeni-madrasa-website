@@ -58,10 +58,10 @@ const Reviews2 = () => {
 
                         {/* Text Prev/Next Buttons */}
                         <div className="absolute top-1/2 left-0 right-0 flex justify-between px-4 -translate-y-1/2">
-                            <button className="btn btn-circle" onClick={prevText}>
+                            <button className="btn btn-circle dark:bg-white dark:text-black dark:border-gray-200" onClick={prevText}>
                                 ❮
                             </button>
-                            <button className="btn btn-circle" onClick={nextText}>
+                            <button className="btn btn-circle dark:bg-white dark:text-black dark:border-gray-200" onClick={nextText}>
                                 ❯
                             </button>
                         </div>
@@ -84,10 +84,10 @@ const Reviews2 = () => {
 
                         {/* Video Prev/Next Buttons */}
                         <div className="absolute top-1/2 left-0 right-0 flex justify-between px-4 -translate-y-1/2">
-                            <button className="btn btn-circle" onClick={prevVideo}>
+                            <button className="btn btn-circle dark:bg-white dark:text-black dark:border-gray-200" onClick={prevVideo}>
                                 ❮
                             </button>
-                            <button className="btn btn-circle" onClick={nextVideo}>
+                            <button className="btn btn-circle dark:bg-white dark:text-black dark:border-gray-200" onClick={nextVideo}>
                                 ❯
                             </button>
                         </div>
