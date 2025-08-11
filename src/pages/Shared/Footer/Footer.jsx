@@ -2,35 +2,31 @@
 
 const Footer = () => {
     return (
-        <div className="hero" style={{ backgroundImage: "url(https://i.ibb.co/m5t28WGz/imge.png)", }}>
-            <footer className="footer sm:footer-horizontal text-base-content p-10 container mx-auto">
+        <div className="mt-20" style={{ backgroundImage: "url(https://i.ibb.co.com/3yBQ3P9P/footer-top-bg.jpg)", }}>
+            <footer className="footer sm:footer-horizontal text-base-content pt-30 pb-20 container mx-auto">
                 <aside>
-                    <h2>About Deeni Madrasa</h2>
+                    <h2 className="text-2xl text-[#724B01] font-bold">About Deeni Madrasa</h2>
                     <p>
-                        ACME Industries Ltd.
-                        <br />
-                        Providing reliable tech since 1992
+                        AThe Holy Quran is the greatest book in the world and is the source of all kinds of knowledge. <br /> As a Muslim, it is obligatory for everyone to learn the Qur’an. Deeni Madrasa has made the <br /> journey of learning the Qur’an easier, ensuring Tarbiyah and Akhlaq alongside pure knowledge.
                     </p>
                 </aside>
                 <nav>
-                    <h6 className="footer-title">Services</h6>
-                    <a className="link link-hover">Branding</a>
-                    <a className="link link-hover">Design</a>
-                    <a className="link link-hover">Marketing</a>
-                    <a className="link link-hover">Advertisement</a>
+                    <h6 className="text-2xl font-bold text-[#724B01]">Useful Links</h6>
+                    <a className="link link-hover">Home</a>
+                    <a className="link link-hover">FAQ’s</a>
+                    <a className="link link-hover">Refund Policy</a>
                 </nav>
                 <nav>
-                    <h6 className="footer-title">Company</h6>
-                    <a className="link link-hover">About us</a>
-                    <a className="link link-hover">Contact</a>
-                    <a className="link link-hover">Jobs</a>
-                    <a className="link link-hover">Press kit</a>
+                    <h6 className="text-2xl font-bold text-[#724B01]">Contact</h6>
+                    <a className="link link-hover">Address: Dhaka,Bangladesh</a>
+                    <a className="link link-hover">Phone: ++8801312345678</a>
+                    <a className="link link-hover">Email: info@madrasa.com</a>
                 </nav>
                 <nav>
-                    <h6 className="footer-title">Legal</h6>
-                    <a className="link link-hover">Terms of use</a>
+                    <h6 className="text-2xl font-bold text-[#724B01]">Support</h6>
+                    <a className="link link-hover">Terms and Condition</a>
                     <a className="link link-hover">Privacy policy</a>
-                    <a className="link link-hover">Cookie policy</a>
+                    <a className="link link-hover">Help Line</a>
                 </nav>
             </footer>
         </div>
