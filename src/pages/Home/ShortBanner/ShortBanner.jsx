@@ -9,20 +9,20 @@ const ShortBanner = () => {
                     <p>Learn Quran and many other subjects of Islamic studies with live classes at with great features and benefits.</p>
                 </div>
                 <div className='text-center mt-4 space-y-4'>
-                    <div className="join space-x-6">
-                        <button className="btn join-item font-light">Teaching deeni taleem with Tarbiyah/Akhlaq</button>
-                        <button className="btn join-item font-light">Teaching deeni taleem with Tarbiyah/Akhlaq</button>
-                        <button className="btn join-item font-light">Female Tutors available</button>
+                    <div className="join space-x-6 ">
+                        <button className="btn join-item font-light dark:bg-white text-black dark:border-none rounded">Teaching deeni taleem with Tarbiyah/Akhlaq</button>
+                        <button className="btn join-item font-light dark:bg-white text-black dark:border-none rounded">Teaching deeni taleem with Tarbiyah/Akhlaq</button>
+                        <button className="btn join-item font-light dark:bg-white text-black dark:border-none rounded">Female Tutors available</button>
                     </div>
                     <div className="join space-x-6">
-                        <button className="btn join-item font-light">Tutors are highly Qualified and Multilingual</button>
-                        <button className="btn join-item font-light">All course one rate</button>
-                        <button className="btn join-item font-light">Encourage to be a practicing Muslim</button>
+                        <button className="btn join-item font-light dark:bg-white text-black dark:border-none rounded">Tutors are highly Qualified and Multilingual</button>
+                        <button className="btn join-item font-light dark:bg-white text-black dark:border-none rounded">All course one rate</button>
+                        <button className="btn join-item font-light dark:bg-white text-black dark:border-none rounded">Encourage to be a practicing Muslim</button>
                     </div>
                     <div className="join space-x-6">
-                        <button className="btn join-item font-light">No software needed. Log in and enjoy learning</button>
-                        <button className="btn join-item font-light">Choose from our handpicked, verified Quran Tutors</button>
-                        <button className="btn join-item font-light">Encourage to be a practicing Muslim</button>
+                        <button className="btn join-item font-light dark:bg-white text-black dark:border-none rounded">No software needed. Log in and enjoy learning</button>
+                        <button className="btn join-item font-light dark:bg-white text-black dark:border-none rounded">Choose from our handpicked, verified Quran Tutors</button>
+                        <button className="btn join-item font-light dark:bg-white text-black dark:border-none rounded">Encourage to be a practicing Muslim</button>
                     </div>
                 </div>
             </div>

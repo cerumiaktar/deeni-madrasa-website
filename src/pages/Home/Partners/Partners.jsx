@@ -8,7 +8,7 @@ const Partners = () => {
             </div>
             <Marquee className="gap-6">
                 <div className="flex gap-6">
-                    <div className="card bg-base-100 shadow-2xl">
+                    <div className="card bg-base-100 shadow-2xl dark:bg-white">
                         <figure className="px-10 pt-10">
                             <img
                                 src="https://i.ibb.co.com/CpvLsrPH/banzi-1.png"
@@ -16,7 +16,7 @@ const Partners = () => {
                                 className="rounded-xl" />
                         </figure>
                     </div>
-                    <div className="card bg-base-100 shadow-2xl">
+                    <div className="card bg-base-100 shadow-2xl dark:bg-white">
                         <figure className="px-10 pt-10">
                             <img
                                 src="https://i.ibb.co.com/990NYH42/risalah-1.png"
@@ -24,7 +24,7 @@ const Partners = () => {
                                 className="rounded-xl" />
                         </figure>
                     </div>
-                    <div className="card bg-base-100 shadow-2xl">
+                    <div className="card bg-base-100 shadow-2xl dark:bg-white">
                         <figure className="px-10 pt-10">
                             <img
                                 src="https://i.ibb.co.com/CpvLsrPH/banzi-1.png"
@@ -32,7 +32,7 @@ const Partners = () => {
                                 className="rounded-xl" />
                         </figure>
                     </div>
-                    <div className="card bg-base-100 shadow-2xl">
+                    <div className="card bg-base-100 shadow-2xl dark:bg-white">
                         <figure className="px-10 pt-10">
                             <img
                                 src="https://i.ibb.co.com/Wvwr0xnB/one-1.png"
@@ -40,7 +40,7 @@ const Partners = () => {
                                 className="rounded-xl" />
                         </figure>
                     </div>
-                    <div className="card bg-base-100 shadow-2xl">
+                    <div className="card bg-base-100 shadow-2xl dark:bg-white">
                         <figure className="px-10 pt-10">
                             <img
                                 src="https://i.ibb.co.com/CpvLsrPH/banzi-1.png"
@@ -48,7 +48,7 @@ const Partners = () => {
                                 className="rounded-xl" />
                         </figure>
                     </div>
-                    <div className="card bg-base-100 shadow-2xl">
+                    <div className="card bg-base-100 shadow-2xl dark:bg-white">
                         <figure className="px-10 pt-10">
                             <img
                                 src="https://i.ibb.co.com/990NYH42/risalah-1.png"
@@ -56,7 +56,7 @@ const Partners = () => {
                                 className="rounded-xl" />
                         </figure>
                     </div>
-                    <div className="card bg-base-100 shadow-2xl">
+                    <div className="card bg-base-100 shadow-2xl dark:bg-white">
                         <figure className="px-10 pt-10">
                             <img
                                 src="https://i.ibb.co.com/CpvLsrPH/banzi-1.png"
@@ -64,7 +64,7 @@ const Partners = () => {
                                 className="rounded-xl" />
                         </figure>
                     </div>
-                    <div className="card bg-base-100 shadow-2xl">
+                    <div className="card bg-base-100 shadow-2xl dark:bg-white">
                         <figure className="px-10 pt-10">
                             <img
                                 src="https://i.ibb.co.com/Wvwr0xnB/one-1.png"

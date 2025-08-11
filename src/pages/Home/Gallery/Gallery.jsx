@@ -37,7 +37,7 @@ const Gallery = () => {
                 </div>
             </div>
             <div className="mt-6 text-center">
-                <button className="btn border border-[#724B01] text-[#724B01]">See all Gallery</button>
+                <button className="btn border border-[#724B01] text-[#724B01] dark:bg-white">See all Gallery</button>
             </div>
         </div>
     );

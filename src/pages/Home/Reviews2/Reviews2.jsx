@@ -37,8 +37,8 @@ const Reviews2 = () => {
             </div>
             <div className="flex flex-col md:flex-row gap-6 p-6">
                 {/* Text Review */}
-                <div className="w-full md:w-6/12 relative">
-                    <div className="card w-full h-full bg-base-100 shadow-lg p-6">
+                <div className="w-full md:w-6/12 relative ">
+                    <div className="card w-full h-full bg-base-100 dark:bg-white dark:text-black shadow-lg p-6">
                         <div className="flex items-start gap-4">
                             <img
                                 src={reviews[textIndex].profile_img}
