@@ -2,8 +2,8 @@
 
 const Footer = () => {
     return (
-        <div className="mt-20" style={{ backgroundImage: "url(https://i.ibb.co.com/3yBQ3P9P/footer-top-bg.jpg)", }}>
-            <footer className="footer sm:footer-horizontal text-base-content pt-30 pb-20 container mx-auto">
+        <div className="mt-20 bg-no-repeat md:pb-64" style={{ backgroundImage: "url(https://i.ibb.co.com/3yBQ3P9P/footer-top-bg.jpg)", }}>
+            <footer className="footer sm:footer-horizontal text-base-content pt-30 md:pb-30 container mx-auto">
                 <aside>
                     <h2 className="text-2xl text-[#724B01] font-bold">About Deeni Madrasa</h2>
                     <p className=" dark:text-[#333333] ">
