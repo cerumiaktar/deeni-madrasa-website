@@ -31,7 +31,7 @@ const Navbar = () => {
                             <li><NavLink>Contact</NavLink></li>
                         </ul>
                     </div>
-                    <a className="text-xl"><img src="/src/assets/images/islamic logo 1.png" alt="" /></a>
+                    <a className="text-xl"><img src="https://i.ibb.co.com/BKY4zpPs/islamic-logo-1-CMr35w-We.png" alt="" /></a>
                 </div>
                 <div className="navbar-center hidden lg:flex">
                     <ul className="menu menu-horizontal text-black px-1 text-lg">
